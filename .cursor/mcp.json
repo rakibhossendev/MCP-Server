@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "myCalenderData": {
+      "command": "node",
+      "args": [
+        "/home/rakib-hossen/Desktop/Coding/Projects/mcp-server/server.js"
+      ],
+      "env": {
+        "GOOGLE_CALENDAR_API_KEY": "YOUR_API_KEY",
+        "GOOGLE_CALENDAR_CLIENT_ID": "rakibshek066@gmail.com"
+      }
+    }
+  }
+}
